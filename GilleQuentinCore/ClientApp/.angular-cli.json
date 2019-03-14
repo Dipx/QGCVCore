@@ -20,10 +20,12 @@
       "styles": [
         "styles.css",
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
-        "../node_modules/@fortawesome/fontawesome-pro/css/all.css"
+        "../node_modules/@fortawesome/fontawesome-pro/css/fontawesome.css",
+        "../node_modules/@fortawesome/fontawesome-pro/css/light.css"
       ],
       "scripts": [
-        "../node_modules/@fortawesome/fontawesome-pro/js/all.js"
+        "../node_modules/@fortawesome/fontawesome-pro/js/fontawesome.js",
+        "../node_modules/@fortawesome/fontawesome-pro/js/light.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
